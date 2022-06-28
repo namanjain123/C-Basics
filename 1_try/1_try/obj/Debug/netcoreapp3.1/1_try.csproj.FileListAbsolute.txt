@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\1_try\1_try\bin\Debug\netcoreapp3.1\1_try.exe
+C:\Users\Lenovo\source\repos\1_try\1_try\bin\Debug\netcoreapp3.1\1_try.deps.json
+C:\Users\Lenovo\source\repos\1_try\1_try\bin\Debug\netcoreapp3.1\1_try.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1_try\1_try\bin\Debug\netcoreapp3.1\1_try.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1_try\1_try\bin\Debug\netcoreapp3.1\1_try.dll
+C:\Users\Lenovo\source\repos\1_try\1_try\bin\Debug\netcoreapp3.1\1_try.pdb
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.dll
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.pdb
+C:\Users\Lenovo\source\repos\1_try\1_try\obj\Debug\netcoreapp3.1\1_try.genruntimeconfig.cache
