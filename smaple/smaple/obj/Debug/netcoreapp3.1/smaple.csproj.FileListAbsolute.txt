@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\smaple\smaple\bin\Debug\netcoreapp3.1\smaple.exe
+C:\Users\Lenovo\source\repos\smaple\smaple\bin\Debug\netcoreapp3.1\smaple.deps.json
+C:\Users\Lenovo\source\repos\smaple\smaple\bin\Debug\netcoreapp3.1\smaple.runtimeconfig.json
+C:\Users\Lenovo\source\repos\smaple\smaple\bin\Debug\netcoreapp3.1\smaple.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\smaple\smaple\bin\Debug\netcoreapp3.1\smaple.dll
+C:\Users\Lenovo\source\repos\smaple\smaple\bin\Debug\netcoreapp3.1\smaple.pdb
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.dll
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.pdb
+C:\Users\Lenovo\source\repos\smaple\smaple\obj\Debug\netcoreapp3.1\smaple.genruntimeconfig.cache
