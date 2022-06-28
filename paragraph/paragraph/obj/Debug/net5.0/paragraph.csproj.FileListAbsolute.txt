@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\paragraph\paragraph\bin\Debug\net5.0\paragraph.exe
+C:\Users\Lenovo\source\repos\paragraph\paragraph\bin\Debug\net5.0\paragraph.deps.json
+C:\Users\Lenovo\source\repos\paragraph\paragraph\bin\Debug\net5.0\paragraph.runtimeconfig.json
+C:\Users\Lenovo\source\repos\paragraph\paragraph\bin\Debug\net5.0\paragraph.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\paragraph\paragraph\bin\Debug\net5.0\paragraph.dll
+C:\Users\Lenovo\source\repos\paragraph\paragraph\bin\Debug\net5.0\ref\paragraph.dll
+C:\Users\Lenovo\source\repos\paragraph\paragraph\bin\Debug\net5.0\paragraph.pdb
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.dll
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\ref\paragraph.dll
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.pdb
+C:\Users\Lenovo\source\repos\paragraph\paragraph\obj\Debug\net5.0\paragraph.genruntimeconfig.cache
